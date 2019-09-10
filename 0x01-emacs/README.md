@@ -1,1 +1,1 @@
-Â# 0x01 EMACS
+# 0x01 EMACS
